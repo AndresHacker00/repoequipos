@@ -1,2 +1,2 @@
-# repoequipos
-Practica 3 Repo entre equipos
+AndresHacker00
+Hola 
